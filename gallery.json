@@ -1,5 +1,23 @@
 [
   {
+    "name": "20260921_151055.jpg",
+    "path": "media/2026/09/2026-09-21/1790014298647-20260921_151055.jpg.enc",
+    "date": "2026-09-21",
+    "takenAt": "2026-09-21",
+    "lat": null,
+    "lon": null,
+    "type": "image/jpeg",
+    "bytes": 4626866,
+    "iv": "sjJL095b1b1I73lS",
+    "sha": "d3defc1fa3c642afb25bae3595091cb692852fd9",
+    "uploadedAt": "2026-09-21T18:11:48.080Z",
+    "uploadedBy": "Mayanne",
+    "categories": [
+      "amelye"
+    ],
+    "caption": ""
+  },
+  {
     "name": "1001384669.mp4",
     "path": "media/2026/09/2026-09-19/1789826748845-1001384669.mp4.enc",
     "date": "2026-09-19",
