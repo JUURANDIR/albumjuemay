@@ -138,6 +138,22 @@
     "caption": ""
   },
   {
+    "name": "IMG_20260726_234433_109.webp",
+    "path": "media/2026/09/2026-09-22/1790110312402-IMG_20260726_234433_109.webp.enc",
+    "date": "2026-09-22",
+    "takenAt": null,
+    "lat": null,
+    "lon": null,
+    "type": "image/webp",
+    "bytes": 397478,
+    "iv": "2qvTFMx+i6rTkYHK",
+    "sha": "5318a9f27b233ddd6d73ad2d3d0f81f339ddd2f5",
+    "uploadedAt": "2026-09-22T20:51:54.566Z",
+    "uploadedBy": "Mayanne",
+    "categories": [],
+    "caption": ""
+  },
+  {
     "name": "IMG_20260910_235500_072.jpg",
     "path": "media/2026/09/2026-09-22/1790110304100-IMG_20260910_235500_072.jpg.enc",
     "date": "2026-09-22",
