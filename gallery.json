@@ -30,7 +30,9 @@
     "sha": "2e38421b09d847ae29819eaa1629cb4f2c24ef5a",
     "uploadedAt": "2026-09-22T20:52:09.825Z",
     "uploadedBy": "Mayanne",
-    "categories": [],
+    "categories": [
+      "amigos"
+    ],
     "caption": ""
   },
   {
