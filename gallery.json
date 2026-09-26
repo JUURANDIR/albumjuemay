@@ -178,6 +178,24 @@
     "caption": ""
   },
   {
+    "name": "20260920_125629.jpg",
+    "path": "media/2026/09/2026-09-26/1790380993662-20260920_125629.jpg.enc",
+    "date": "2026-09-20",
+    "takenAt": "2026-09-20",
+    "lat": null,
+    "lon": null,
+    "type": "image/jpeg",
+    "bytes": 1036153,
+    "iv": "50ZPv64yJ7GhfxKI",
+    "sha": "e364ad7d30528caab7b5875a4b8a4776f683420b",
+    "uploadedAt": "2026-09-26T00:03:18.493Z",
+    "uploadedBy": "Mayanne",
+    "categories": [
+      "amelye"
+    ],
+    "caption": ""
+  },
+  {
     "name": "1001384669.mp4",
     "path": "media/2026/09/2026-09-19/1789826748845-1001384669.mp4.enc",
     "date": "2026-09-19",
@@ -990,6 +1008,24 @@
     "sha": "7fea83965e8d3786c11e7bacfedacf3590f4efeb",
     "uploadedAt": "2026-09-19T14:05:59.878Z",
     "uploadedBy": "Jurandir",
+    "categories": [
+      "amelye"
+    ],
+    "caption": ""
+  },
+  {
+    "name": "IMG_20260701_184850.jpg",
+    "path": "media/2026/09/2026-09-26/1790380998537-IMG_20260701_184850.jpg.enc",
+    "date": "2026-07-01",
+    "takenAt": "2026-07-01",
+    "lat": null,
+    "lon": null,
+    "type": "image/jpeg",
+    "bytes": 1710388,
+    "iv": "9y88zdaQmr6cKRG2",
+    "sha": "fa74420572bdb75c32a8f6d2127a8f82e0ae69d6",
+    "uploadedAt": "2026-09-26T00:03:40.728Z",
+    "uploadedBy": "Mayanne",
     "categories": [
       "amelye"
     ],
