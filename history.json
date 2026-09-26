@@ -1,5 +1,11 @@
 [
   {
+    "ts": "2026-09-26T00:01:12.531Z",
+    "who": "Mayanne",
+    "action": "delete",
+    "details": "IMG_20260726_234433_109.webp"
+  },
+  {
     "ts": "2026-09-25T23:58:35.181Z",
     "who": "Mayanne",
     "action": "category",
