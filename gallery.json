@@ -1,5 +1,167 @@
 [
   {
+    "name": "1001488205.jpg",
+    "path": "media/2026/09/2026-09-28/1790556040655-1001488205.jpg.enc",
+    "date": "2026-09-28",
+    "takenAt": null,
+    "lat": null,
+    "lon": null,
+    "type": "image/jpeg",
+    "bytes": 100724,
+    "iv": "0M10Nk9xrQUF6Rmy",
+    "sha": "ed162cc3486eecf9452535052d188245f53e0fed",
+    "uploadedAt": "2026-09-28T00:40:42.065Z",
+    "uploadedBy": "Jurandir",
+    "categories": [
+      "amelye"
+    ],
+    "caption": ""
+  },
+  {
+    "name": "1001488202.jpg",
+    "path": "media/2026/09/2026-09-28/1790556039320-1001488202.jpg.enc",
+    "date": "2026-09-28",
+    "takenAt": null,
+    "lat": null,
+    "lon": null,
+    "type": "image/jpeg",
+    "bytes": 114599,
+    "iv": "sDefc9cEyVKkXGGE",
+    "sha": "3aedbc92305bab42951b6ee5101d6a41a92df822",
+    "uploadedAt": "2026-09-28T00:40:40.628Z",
+    "uploadedBy": "Jurandir",
+    "categories": [
+      "amelye"
+    ],
+    "caption": ""
+  },
+  {
+    "name": "1001488249.jpg",
+    "path": "media/2026/09/2026-09-28/1790556037682-1001488249.jpg.enc",
+    "date": "2026-09-28",
+    "takenAt": null,
+    "lat": null,
+    "lon": null,
+    "type": "image/jpeg",
+    "bytes": 96481,
+    "iv": "vGnS7NuWecAujlbq",
+    "sha": "308b83a134376a451f3b3776b73e95739813c496",
+    "uploadedAt": "2026-09-28T00:40:39.294Z",
+    "uploadedBy": "Jurandir",
+    "categories": [
+      "amelye"
+    ],
+    "caption": ""
+  },
+  {
+    "name": "1001488233.jpg",
+    "path": "media/2026/09/2026-09-28/1790556036349-1001488233.jpg.enc",
+    "date": "2026-09-28",
+    "takenAt": null,
+    "lat": null,
+    "lon": null,
+    "type": "image/jpeg",
+    "bytes": 95445,
+    "iv": "0Mduv29KI635232e",
+    "sha": "ed7400d98b6e62f1a46e36e614955c6db5514c9d",
+    "uploadedAt": "2026-09-28T00:40:37.655Z",
+    "uploadedBy": "Jurandir",
+    "categories": [
+      "amelye"
+    ],
+    "caption": ""
+  },
+  {
+    "name": "1001488439.jpg",
+    "path": "media/2026/09/2026-09-28/1790556034609-1001488439.jpg.enc",
+    "date": "2026-09-28",
+    "takenAt": null,
+    "lat": null,
+    "lon": null,
+    "type": "image/jpeg",
+    "bytes": 120383,
+    "iv": "0+2AZAjjf987LTXv",
+    "sha": "4e36d86e86d2d64634fc05e38de9a63e1ceddc31",
+    "uploadedAt": "2026-09-28T00:40:36.325Z",
+    "uploadedBy": "Jurandir",
+    "categories": [
+      "amelye"
+    ],
+    "caption": ""
+  },
+  {
+    "name": "1001488397.jpg",
+    "path": "media/2026/09/2026-09-28/1790556033251-1001488397.jpg.enc",
+    "date": "2026-09-28",
+    "takenAt": null,
+    "lat": null,
+    "lon": null,
+    "type": "image/jpeg",
+    "bytes": 118324,
+    "iv": "aDhPcSGpJ3+LLpx1",
+    "sha": "361560023cd68d2a075ee245f85e0e7470ab0bdc",
+    "uploadedAt": "2026-09-28T00:40:34.583Z",
+    "uploadedBy": "Jurandir",
+    "categories": [
+      "amelye"
+    ],
+    "caption": ""
+  },
+  {
+    "name": "1001488475.jpg",
+    "path": "media/2026/09/2026-09-28/1790556028997-1001488475.jpg.enc",
+    "date": "2026-09-28",
+    "takenAt": null,
+    "lat": null,
+    "lon": null,
+    "type": "image/jpeg",
+    "bytes": 130281,
+    "iv": "q5rB5Quvwl/lSlay",
+    "sha": "73ff8fa65c4e9b06fbcfd4538e40f4ee75560b25",
+    "uploadedAt": "2026-09-28T00:40:33.228Z",
+    "uploadedBy": "Jurandir",
+    "categories": [
+      "amelye"
+    ],
+    "caption": ""
+  },
+  {
+    "name": "1001488457.jpg",
+    "path": "media/2026/09/2026-09-28/1790556025459-1001488457.jpg.enc",
+    "date": "2026-09-28",
+    "takenAt": null,
+    "lat": null,
+    "lon": null,
+    "type": "image/jpeg",
+    "bytes": 126193,
+    "iv": "8TwsFDdJmcrSMpZM",
+    "sha": "d59aaae9e36b51c4363db398100750fc677ba9ef",
+    "uploadedAt": "2026-09-28T00:40:28.960Z",
+    "uploadedBy": "Jurandir",
+    "categories": [
+      "amelye"
+    ],
+    "caption": ""
+  },
+  {
+    "name": "1001488442.jpg",
+    "path": "media/2026/09/2026-09-28/1790556022101-1001488442.jpg.enc",
+    "date": "2026-09-28",
+    "takenAt": null,
+    "lat": null,
+    "lon": null,
+    "type": "image/jpeg",
+    "bytes": 127370,
+    "iv": "/g64+8mKHe0cnS13",
+    "sha": "3f23377661f8bf6f7ce7e7e32910b1e8a1250473",
+    "uploadedAt": "2026-09-28T00:40:25.435Z",
+    "uploadedBy": "Jurandir",
+    "categories": [
+      "amelye"
+    ],
+    "caption": ""
+  },
+  {
     "name": "1001488451.jpg",
     "path": "media/2026/09/2026-09-28/1790556018611-1001488451.jpg.enc",
     "date": "2026-09-28",
@@ -972,20 +1134,6 @@
     "iv": "4WACJKB+dH87tRkC",
     "sha": "b85c81c8dc0124c98aa665db8ac1256bf3aa65f4",
     "uploadedAt": "2026-09-18T05:58:15.054Z",
-    "uploadedBy": "Jurandir",
-    "categories": [
-      "nós"
-    ]
-  },
-  {
-    "name": "1000988590.webp",
-    "path": "media/2026/09/2026-09-18/1789711092089-1000988590.webp.enc",
-    "date": "2026-09-18",
-    "type": "image/webp",
-    "bytes": 155296,
-    "iv": "D0J3eoVZAoAC26Sr",
-    "sha": "de166b4cc10f9ca3660595de8e173ee2e103d6dd",
-    "uploadedAt": "2026-09-18T05:58:13.619Z",
     "uploadedBy": "Jurandir",
     "categories": [
       "nós"
