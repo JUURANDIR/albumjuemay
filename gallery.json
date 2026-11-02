@@ -1,5 +1,23 @@
 [
   {
+    "name": "1001520790.jpg",
+    "path": "media/2026/11/2026-11-02/1793630340288-1001520790.jpg.enc",
+    "date": "2026-10-17",
+    "takenAt": "2026-10-17",
+    "lat": null,
+    "lon": null,
+    "type": "image/jpeg",
+    "bytes": 1872475,
+    "iv": "HZC3ItQCUHtxjn2j",
+    "sha": "12146c4450364b12c6a18871670b9ef108ad384b",
+    "uploadedAt": "2026-11-02T14:39:03.802Z",
+    "uploadedBy": "Jurandir",
+    "categories": [
+      "amelye"
+    ],
+    "caption": ""
+  },
+  {
     "name": "1001488205.jpg",
     "path": "media/2026/09/2026-09-28/1790556040655-1001488205.jpg.enc",
     "date": "2026-09-28",
