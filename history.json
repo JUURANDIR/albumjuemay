@@ -1,5 +1,11 @@
 [
   {
+    "ts": "2026-11-02T14:39:06.123Z",
+    "who": "Jurandir",
+    "action": "upload",
+    "details": "1 arquivo(s) em amelye"
+  },
+  {
     "ts": "2026-09-28T00:40:45.271Z",
     "who": "Jurandir",
     "action": "delete",
